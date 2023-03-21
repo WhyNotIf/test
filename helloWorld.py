@@ -7,5 +7,5 @@ def helloWorld(message : str):
 
 # Call our wonderful function
 
-helloWorld()
+helloWorld("Yo!")
 
